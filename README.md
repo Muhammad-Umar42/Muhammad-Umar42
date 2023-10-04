@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Mearn Stack**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **m.umar.programer@gmail.com**
 
