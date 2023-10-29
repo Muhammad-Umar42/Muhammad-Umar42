@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Mern Stack projects**
 
 - 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **m.umar.programer@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I never give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
